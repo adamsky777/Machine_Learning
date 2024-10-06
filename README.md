@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank">
-    <img src="./ML_logo.png" alt="ML_logo" width="400" height="200"/>
+    <img src="./ML_logo.png" alt="ML_logo" width="350" height="230"/>
 </a>
 
 
