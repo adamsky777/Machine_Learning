@@ -1,11 +1,11 @@
 <div align="center">
 
 <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank">
-    <img src="./ML_logo.png" alt="ML_logo" width="370" height="230"/>
+    <img src="./ML_logo.png" alt="ML_logo" width="385" height="230"/>
 </a>
 
 
-# `Business Optimization Course`
+# `Machine Learning Course`
 
 ![Static Badge](https://img.shields.io/badge/mission-Optimize_Predict_Innovate-purple)
 <br />
