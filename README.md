@@ -5,7 +5,7 @@
 </a>
 
 
-# `Machine Learning Course`
+# `Machine Learning Master's Course`
 
 ![Static Badge](https://img.shields.io/badge/mission-Optimize_Predict_Innovate-purple)
 <br />
